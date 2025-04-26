@@ -1,7 +1,7 @@
 ```markdown
 # Rectangle and Square Class Implementation 🧱🟦
 
-This project demonstrates the use of **Object-Oriented Programming (OOP)** concepts in Python by implementing two classes: `Rectangle` and `Square`.
+This project demonstrates the use of Object-Oriented Programming (OOP) concepts in Python by implementing two classes: `Rectangle` and `Square`.
 
 ## 📚 Features
 - Create rectangles and squares with customizable dimensions.
@@ -20,7 +20,7 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
    ```
 2. Navigate into the project directory:
    ```bash
-   cd rectangle-square
+   cd polygon-area-project
    ```
 3. Run the Python file:
    ```bash
