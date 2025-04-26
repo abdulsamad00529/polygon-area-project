@@ -1,11 +1,3 @@
-### 📋 **Project Description (for GitHub):**
-
-> A simple Python project demonstrating Object-Oriented Programming concepts like inheritance, method overriding, and operator overloading with `Rectangle` and `Square` classes.
-
----
-
-### 📄 **README.md content:**
-
 ```markdown
 # Rectangle and Square Class Implementation 🧱🟦
 
